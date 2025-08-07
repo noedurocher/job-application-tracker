@@ -30,7 +30,7 @@ function JobForm(){
 
     const handleLogout = ()=>{
         localStorage.clear();
-        window.location.href="/login";
+        window.location.href="https://job-application-tracker-home.onrender.com/login";
     }
 
     useEffect( ()=>{
