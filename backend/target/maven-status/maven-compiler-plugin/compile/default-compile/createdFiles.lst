@@ -1,0 +1,9 @@
+com\example\jobApp\backend\model\JobApplication.class
+com\example\jobApp\backend\model\User.class
+com\example\jobApp\backend\config\SecurityConfig$1.class
+com\example\jobApp\backend\BackendApplication.class
+com\example\jobApp\backend\repository\JobApplicationRepository.class
+com\example\jobApp\backend\controller\UserController.class
+com\example\jobApp\backend\repository\UserRepository.class
+com\example\jobApp\backend\controller\JobApplicationController.class
+com\example\jobApp\backend\config\SecurityConfig.class
