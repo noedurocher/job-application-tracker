@@ -1,0 +1,30 @@
+.navigation, .footer{
+    width:100%;
+    height:auto;
+    display:block;
+    background-color: #3a5699;
+    margin: 0;
+    padding: 10px;
+}
+
+.navigation p{
+    text-align:right;
+    padding: 5px;
+    font-size: 18px;
+    margin-right:10px;
+}
+
+.navigation a{
+    color: white;
+    text-decoration:none;
+    margin-right:30px;
+}
+
+.navigation a:hover{
+    color: lightgray;
+}
+
+.background{
+    width:100%;
+    height:520px;
+}
