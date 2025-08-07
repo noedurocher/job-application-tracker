@@ -37,15 +37,16 @@ A full-stack web application for tracking job applications. Users can log in, cr
 - Node.js + npm
 - Java 17+
 - H2 in dev
+### Backend
+
+./mvnw spring-boot:run
 
 ### Frontend
 
 ```bash
-cd client
+cd frontend
 npm install
 npm start
 
-### Backend
 
-cd backend
-./mvnw spring-boot:run
+
