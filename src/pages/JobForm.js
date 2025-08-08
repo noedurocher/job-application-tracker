@@ -1,6 +1,7 @@
 import {useState, useEffect} from 'react';
 import axios from 'axios';
 import '../css/JobForm.css';
+import {useNavigate} from 'react-router-dom';
 
 
 function JobForm(){
@@ -27,10 +28,11 @@ function JobForm(){
     const [menuOpen, setMenuOpen] = useState(false);
 
     const toggleMenu = ()=>setMenuOpen(!menuOpen);
+    const navigate = useNavigate();
 
     const handleLogout = ()=>{
         localStorage.clear();
-        window.location.href="https://job-application-tracker-home.onrender.com/login";
+        navigate("/login");
     }
 
     useEffect( ()=>{
