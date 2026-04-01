@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # Job Application Tracker
 
 A full-stack web application for tracking job applications. Users can log in, create, update, delete, and view a paginated list of their job submissions, all in a responsive and user-friendly interface.
@@ -54,7 +51,6 @@ npm start
 
 
 =======
->>>>>>> saved-work
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -125,7 +121,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-<<<<<<< HEAD
 =======
 >>>>>>> Initialize project using Create React App
 >>>>>>> saved-work
