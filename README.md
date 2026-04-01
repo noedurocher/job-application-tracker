@@ -47,5 +47,3 @@ A full-stack web application for tracking job applications. Users can log in, cr
 cd frontend
 npm install
 npm start
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
