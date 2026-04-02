@@ -10,7 +10,7 @@ A full-stack web application for tracking job applications. Users can log in, cr
 - Paginated job list display
 - Responsive layout: job form on the left, paginated list on the right
 - Secure password storage using BCrypt
-- Integrated with backend RESTful API (Spring Boot + PostgreSQL)
+- Integrated with backend RESTful API (Spring Boot + H2)
 
 ## 🖥️ Tech Stack
 
@@ -23,7 +23,7 @@ A full-stack web application for tracking job applications. Users can log in, cr
 ### Backend
 - Java + Spring Boot
 - Spring Security
-- PH2 for testing
+- H2 (in-memory database for local development and testing)
 - JPA/Hibernate
 
 ### Deployment
